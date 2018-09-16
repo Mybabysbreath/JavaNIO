@@ -1,0 +1,7 @@
+IO		NIO
+面向流		面向缓存区
+阻塞IO	非阻塞IO
+		选择器（selector）
+		
+Channel负责传输，Buffer负责存储
+
